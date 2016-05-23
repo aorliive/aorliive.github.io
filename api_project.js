@@ -1,0 +1,1 @@
+define({  "title": "Custom apiDoc browser title",  "url": "http://api.digitalinfluencers.com.br/v1",  "name": "instagramAnalytics",  "version": "0.0.0",  "description": "",  "sampleUrl": false,  "apidoc": "0.2.0",  "generator": {    "name": "apidoc",    "time": "2016-05-23T18:20:28.318Z",    "url": "http://apidocjs.com",    "version": "0.16.1"  }});
